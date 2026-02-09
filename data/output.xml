@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <schedule type="list">
+    <item>
+      <thursday type="list">
+        <item>
+          <lecture type="list">
+            <item>
+              <time>08:10</time>
+              <subject>Информатика</subject>
+              <lecturer>Миняев Илья Андреевич</lecturer>
+              <room>1328</room>
+              <address>Кронверкский пр., д.49, лит.А</address>
+            </item>
+            <item>
+              <time>09:50</time>
+              <subject>Информатика</subject>
+              <lecturer>Миняев Илья Андреевич</lecturer>
+              <room>1328</room>
+              <address>Кронверкский пр., д.49, лит.А</address>
+            </item>
+          </lecture>
+        </item>
+      </thursday>
+    </item>
+  </schedule>
+</root>

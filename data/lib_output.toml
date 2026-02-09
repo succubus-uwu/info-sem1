@@ -1,0 +1,14 @@
+[[schedule]]
+[[schedule.thursday.lecture]]
+time = "08:10"
+subject = "Информатика"
+lecturer = "Миняев Илья Андреевич"
+room = "1328"
+address = "Кронверкский пр., д.49, лит.А"
+
+[[schedule.thursday.lecture]]
+time = "09:50"
+subject = "Информатика"
+lecturer = "Миняев Илья Андреевич"
+room = "1328"
+address = "Кронверкский пр., д.49, лит.А"
